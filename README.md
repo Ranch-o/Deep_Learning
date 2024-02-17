@@ -1,1 +1,1 @@
-Important understanding of deep learning.
+Important understanding of deep learning based on Pytorch frameworl.
